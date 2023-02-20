@@ -1,5 +1,7 @@
 {
   "name": "state",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
